@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gunjan Yadav</h1>
-<h3 align="center">MCA @ JIIT | Cybersecurity & Full Stack Developer | CEH Certified</h3>
+<h3 align="center">MCA @ JIIT | Full Stack Developer | CEH Certified</h3>
 
 <p align="center">
-  Building secure, functional applications at the intersection of development and cybersecurity
+  Building functional and scalable applications with a security-first mindset
 </p>
 
 <p align="center">
@@ -13,12 +13,13 @@
 
 ## 🚀 About Me
 
-- 🔐 **CEH Certified** — practical experience in penetration testing and vulnerability assessment
-- 🛡️ Assessed **5+ web applications**, identified **10+ critical vulnerabilities** using Burp Suite & Nmap
+- 🎓 Pursuing **MCA @ JIIT** | BCA Graduate with **8.01 GPA**
+- ⚛️ Building projects with **React, JavaScript, Python ,C++**
 - 📊 Built an **ML credit risk system** with **85%+ accuracy** on 500+ financial records
-- ⚡ Led **Cyberknights** as Joint Secretary — organized 3+ workshops, increased participation by **30%**
+- 🏆 **CEH Certified** — EC-Council Certified Ethical Hacker
+- ⚡ Led **Cyberknights** as Joint Secretary — increased participation by **30%**
 - 🌱 Currently deepening skills in **Full Stack Development & DSA**
-- 🔭 Open to collaborate on **security tools, full stack apps, and open source**
+- 🔭 Open to collaborate on **full stack apps and open source**
 
 ---
 
@@ -28,7 +29,7 @@
 - Step-by-step visualization of Bubble, Selection, Merge, Quick Sort & Binary Search
 - **Pseudocode panel** highlights the exact line executing at each step
 - Built with **React, Vite, CSS**
-- 👉 [Live Demo](https://your-vercel-url.vercel.app) · [Source Code](https://github.com/Gunjan-Yadav12/-dsa-visualizer)
+- 👉 [Live Demo](https://dsa-visualizer-beta-sepia.vercel.app/) · [Source Code](https://github.com/Gunjan-Yadav12/-dsa-visualizer)
 
 ### 🔹 Credit Card Risk Analysis
 - ML-based credit risk scoring system on **500+ financial records**
@@ -40,16 +41,14 @@
 
 ## 💼 Experience
 
-### 🔹 Cyber Security Intern — Sarvagya Institute *(Mar 2024 – May 2024)*
-- Assessed **5+ web applications** using Burp Suite and Nmap
-- Identified **10+ medium and critical vulnerabilities**
-- Analyzed **100+ packets** using Wireshark
-- Prepared **8+ penetration testing reports**, reducing security risks by **25%**
-
 ### 🔹 Joint Secretary & Design Head — Cyberknights *(Jan 2024 – May 2025)*
 - Led team of **15–20 members**, organized **3+ technical workshops**
 - Increased event participation by **30%**
 - Secured **2nd place** in "Try to Login" CTF competition among 50+ participants
+
+### 🔹 Cyber Security Intern — Sarvagya Institute *(Mar 2024 – May 2024)*
+- Assessed **5+ web applications**, identified **10+ critical vulnerabilities**
+- Prepared **8+ penetration testing reports**, reducing security risks by **25%**
 
 ---
 
@@ -57,9 +56,22 @@
 
 **Languages:** Python · C · C++ · JavaScript (ES6+)  
 **Frontend:** React · HTML5 · CSS3 · Bootstrap  
-**Cybersecurity:** Burp Suite · Nmap · Wireshark · Metasploit  
 **Databases:** MySQL · SQL  
-**Tools:** Git · GitHub · Linux (Kali/Ubuntu) · Power BI · VS Code
+**Tools:** Git · GitHub · VS Code · Power BI  
+
+<p align="left">
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+</p>
 
 ---
 
