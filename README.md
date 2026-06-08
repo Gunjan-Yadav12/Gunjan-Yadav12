@@ -12,7 +12,15 @@
 * ⚡ Fun fact: **I love building things that actually solve problems**
 
 ---
-
+<h3 align="center">🚀 Live Projects</h3>
+<p align="center">
+  <a href="https://your-vercel-url.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/DSA%20Visualizer-Live-7c6af7?style=for-the-badge&logo=vercel&logoColor=white" alt="DSA Visualizer"/>
+  </a>
+</p>
+<p align="center">
+  Sorting & searching algorithm visualizer with step-by-step pseudocode highlighting
+</p>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
