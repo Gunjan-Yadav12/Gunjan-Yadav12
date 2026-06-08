@@ -1,66 +1,95 @@
-<h1 align="center">Hi there 👋, I'm Gunjan Yadav</h1>
-<h3 align="center">A passionate Developer from New Delhi, India</h3>
+<h1 align="center">Hi 👋, I'm Gunjan Yadav</h1>
+<h3 align="center">MCA @ JIIT | Cybersecurity & Full Stack Developer | CEH Certified</h3>
 
 <p align="center">
-  <img src="https://img.freepik.com/premium-photo/anime-girl-coding-night-cityscape_1282444-133826.jpg" alt="Anime Girl Coding" width="400"/>
+  Building secure, functional applications at the intersection of development and cybersecurity
 </p>
 
-* 🔭 I'm currently working on **personal projects to sharpen my engineering skills**
-* 🌱 I'm currently learning **Full Stack Development & DSA**
-* 👯 I'm looking to collaborate on **real-world projects and open source**
-* 💬 Ask me about **Frontend Development and problem solving**
-* ⚡ Fun fact: **I love building things that actually solve problems**
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/anime-girl-coding-night-cityscape_1282444-133826.jpg" width="400"/>
+</p>
 
 ---
-<h3 align="center">🚀 Live Projects</h3>
-<p align="center">
-  <a href="https://dsa-visualizer-beta-sepia.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/DSA%20Visualizer-Live-7c6af7?style=for-the-badge&logo=vercel&logoColor=white" alt="DSA Visualizer"/>
-  </a>
-</p>
-<p align="center">
-  Sorting & searching algorithm visualizer with step-by-step pseudocode highlighting
-</p>
-<h3 align="center">Connect with me:</h3>
 
+## 🚀 About Me
+
+- 🔐 **CEH Certified** — practical experience in penetration testing and vulnerability assessment
+- 🛡️ Assessed **5+ web applications**, identified **10+ critical vulnerabilities** using Burp Suite & Nmap
+- 📊 Built an **ML credit risk system** with **85%+ accuracy** on 500+ financial records
+- ⚡ Led **Cyberknights** as Joint Secretary — organized 3+ workshops, increased participation by **30%**
+- 🌱 Currently deepening skills in **Full Stack Development & DSA**
+- 🔭 Open to collaborate on **security tools, full stack apps, and open source**
+
+---
+
+## 🧠 Featured Projects
+
+### 🔹 DSA Visualizer
+- Step-by-step visualization of Bubble, Selection, Merge, Quick Sort & Binary Search
+- **Pseudocode panel** highlights the exact line executing at each step
+- Built with **React, Vite, CSS**
+- 👉 [Live Demo](https://your-vercel-url.vercel.app) · [Source Code](https://github.com/Gunjan-Yadav12/-dsa-visualizer)
+
+### 🔹 Credit Card Risk Analysis
+- ML-based credit risk scoring system on **500+ financial records**
+- **85%+ accuracy** using Logistic Regression and Random Forest
+- Built with **Python, Scikit-learn, Pandas, Power BI**
+- 👉 [Source Code](https://github.com/Gunjan-Yadav12/credit-card-risk-analysis)
+
+---
+
+## 💼 Experience
+
+### 🔹 Cyber Security Intern — Sarvagya Institute *(Mar 2024 – May 2024)*
+- Assessed **5+ web applications** using Burp Suite and Nmap
+- Identified **10+ medium and critical vulnerabilities**
+- Analyzed **100+ packets** using Wireshark
+- Prepared **8+ penetration testing reports**, reducing security risks by **25%**
+
+### 🔹 Joint Secretary & Design Head — Cyberknights *(Jan 2024 – May 2025)*
+- Led team of **15–20 members**, organized **3+ technical workshops**
+- Increased event participation by **30%**
+- Secured **2nd place** in "Try to Login" CTF competition among 50+ participants
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python · C · C++ · JavaScript (ES6+)  
+**Frontend:** React · HTML5 · CSS3 · Bootstrap  
+**Cybersecurity:** Burp Suite · Nmap · Wireshark · Metasploit  
+**Databases:** MySQL · SQL  
+**Tools:** Git · GitHub · Linux (Kali/Ubuntu) · Power BI · VS Code
+
+---
+
+## 📜 Certifications
+
+- 🏆 **EC-Council** — Certified Ethical Hacker (CEH)
+- 🛡️ **NIELIT** — Cyber Security Awareness
+- 💼 **IBM** — Professional Skills
+- 🌐 **EDUTA** — WordPress Certification
+
+---
+
+<h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/gunjan-yadav-6ab561239" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-
   <a href="https://leetcode.com/u/Gunjan_1205/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
-
 <p align="center">
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gunjan-Yadav12&theme=gotham&show_icons=true&hide_border=false&count_private=true"/>
 </p>
-
----
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gunjan-Yadav12&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjan-Yadav12&theme=gotham&layout=compact&hide_border=false"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjan-Yadav12&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gunjan-Yadav12&theme=onedark" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gunjan-Yadav12&theme=onedark"/>
 </p>
