@@ -97,7 +97,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gunjan-Yadav12&theme=gotham&show_icons=true&hide_border=false&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gunjan-Yadav12&theme=gotham&show_icons=true&hide_border=false&count_private=true&cache_seconds=0"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjan-Yadav12&theme=gotham&layout=compact&hide_border=false"/>
