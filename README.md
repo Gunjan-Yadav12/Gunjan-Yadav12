@@ -26,16 +26,18 @@
 ## 🧠 Featured Projects
 
 ### 🔹 DSA Visualizer
-- Step-by-step visualization of Bubble, Selection, Merge, Quick Sort & Binary Search
+- Step-by-step visualization of Bubble, Selection, Merge, Quick, Heap Sort & Binary Search
 - **Pseudocode panel** highlights the exact line executing at each step
+- Time complexity display for every algorithm
 - Built with **React, Vite, CSS**
 - 👉 [Live Demo](https://dsa-visualizer-beta-sepia.vercel.app/) · [Source Code](https://github.com/Gunjan-Yadav12/-dsa-visualizer)
 
-### 🔹 Credit Card Risk Analysis
-- ML-based credit risk scoring system on **500+ financial records**
-- **85%+ accuracy** using Logistic Regression and Random Forest
-- Built with **Python, Scikit-learn, Pandas, Power BI**
-- 👉 [Source Code](https://github.com/Gunjan-Yadav12/credit-card-risk-analysis)
+### 🔹 Credit Card Fraud Detection
+- ML model to detect fraud on a massively imbalanced dataset (492 fraud vs 284,807 normal)
+- Handled class imbalance with **SMOTE** — balanced to 227,451 samples each class
+- Compared **Logistic Regression** (90% recall) vs **Random Forest** (84% precision)
+- Built with **Python, Scikit-learn, Pandas, Matplotlib**
+- 👉 [Source Code](https://github.com/Gunjan-Yadav12/credit-card-fraud-detection)
 
 ---
 
