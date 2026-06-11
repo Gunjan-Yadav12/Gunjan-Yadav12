@@ -99,9 +99,13 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gunjan-Yadav12&theme=gotham&show_icons=true&hide_border=false&count_private=true&cache_seconds=0"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjan-Yadav12&theme=gotham&hide_border=false"/>
 </p>
 <p align="center">
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjan-Yadav12&theme=react-dark&hide_border=true"/>
+</p>
+<p align = "center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjan-Yadav12&theme=gotham&layout=compact&hide_border=false"/>
 </p>
 <p align="center">
