@@ -13,13 +13,15 @@
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **MCA @ JIIT** | BCA Graduate with **8.01 GPA**
-- ⚛️ Building projects with **React, JavaScript, Python ,C++**
-- 📊 Built an **ML credit risk system** with **85%+ accuracy** on 500+ financial records
-- 🏆 **CEH Certified** — EC-Council Certified Ethical Hacker
-- ⚡ Led **Cyberknights** as Joint Secretary — increased participation by **30%**
-- 🌱 Currently deepening skills in **Full Stack Development & DSA**
-- 🔭 Open to collaborate on **full stack apps and open source**
+* 🎓 MCA Student @ JIIT | BCA Graduate (GPA: 8.01)
+* 💻 Full Stack Developer | React • TypeScript • JavaScript • Firebase
+* 🚀 Built AI Resume Analyzer & DSA Visualizer with modern web technologies
+* 🧠 Strong foundation in Data Structures & Algorithms | Solving problems on LeetCode
+* ⚡ Skilled in React, Tailwind CSS, REST APIs, Git, Vite & Firebase
+* 🏆 CEH Certified (EC-Council) | Passionate about secure web development
+* 🌱 Currently learning Backend Development, System Design & Open Source
+* 🤝 Open to Software Engineering, Frontend & Full Stack opportunities
+
 
 ---
 
