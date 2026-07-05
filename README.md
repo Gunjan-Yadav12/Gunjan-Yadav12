@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gunjan Yadav</h1>
-<h3 align="center">MCA @ JIIT | Full Stack Developer | CEH Certified</h3>
+<h3 align="center">MCA @ JIIT | Software Developer | CEH Certified</h3>
 
 <p align="center">
   Building functional and scalable applications with a security-first mindset
