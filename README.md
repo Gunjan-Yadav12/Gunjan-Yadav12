@@ -100,7 +100,9 @@
 
 ---
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=Gunjan-Yadav12&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=6d28d9&currStreakLabel=a78bfa" />
+<p align="center">
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Gunjan-Yadav12&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=6d28d9&currStreakLabel=a78bfa" />
+</p>
 <p align="center">
   <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjan-Yadav12&theme=react-dark&hide_border=true"/>
