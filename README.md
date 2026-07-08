@@ -101,7 +101,7 @@
 ---
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Gunjan-Yadav12&theme=tokyonight&hide_border=true&background=0d0d1a&ring=7c3aed&fire=6d28d9&currStreakLabel=a78bfa" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjan-Yadav12&theme=gotham&hide_border=false"/>
 </p>
 <p align="center">
   <p align="center">
