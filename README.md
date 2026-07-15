@@ -92,8 +92,6 @@ ML model to detect fraud on a heavily imbalanced dataset.
 
 ### ⚡ Engineering Stack
 
-<div align="center">
-
 **Languages**
 <br>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
@@ -109,8 +107,6 @@ ML model to detect fraud on a heavily imbalanced dataset.
 **Tools**
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi" />
-
-</div>
 
 ---
 
@@ -133,19 +129,22 @@ ML model to detect fraud on a heavily imbalanced dataset.
 
 ### 📈 GitHub Metrics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjan-Yadav12&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gunjan-Yadav12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Gunjan-Yadav12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="40%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gunjan-Yadav12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjan-Yadav12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjan-Yadav12&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjan-Yadav12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjan-Yadav12&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gunjan-Yadav12&theme=tokyonight&no-frame=true&row=1" alt="Trophies"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gunjan-Yadav12&theme=tokyonight&no-frame=true&row=1" alt="Trophies"/>
+</p>
 
 ---
 
