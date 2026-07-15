@@ -1,120 +1,170 @@
-<h1 align="center">Hi 👋, I'm Gunjan Yadav</h1>
-<h3 align="center">MCA @ JIIT | Software Developer | CEH Certified</h3>
+<div align="center">
 
-<p align="center">
-  Building functional and scalable applications with a security-first mindset
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gunjan+Yadav;Software+Developer+%7C+CEH+Certified;MCA+Student+%40+JIIT;Building+Secure%2C+Scalable+Web+Apps" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Gunjan-Yadav12&label=Profile%20Views&color=7aa2f7&style=flat" alt="profile views"/>
+
+<p>
+  <img src="https://img.shields.io/badge/MCA-JIIT-7aa2f7?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CEH-Certified-bb9af7?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-Work-9ece6a?style=for-the-badge&logo=handshake&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://img.freepik.com/premium-photo/anime-girl-coding-night-cityscape_1282444-133826.jpg" width="400"/>
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-* 🎓 MCA Student @ JIIT | BCA Graduate (GPA: 8.01)
-* 💻 Full Stack Developer | React • TypeScript • JavaScript • Firebase
-* 🚀 Built AI Resume Analyzer & DSA Visualizer with modern web technologies
-* 🧠 Strong foundation in Data Structures & Algorithms | Solving problems on LeetCode
-* ⚡ Skilled in React, Tailwind CSS, REST APIs, Git, Vite & Firebase
-* 🏆 CEH Certified (EC-Council) | Passionate about secure web development
-* 🌱 Currently learning Backend Development, System Design & Open Source
-* 🤝 Open to Software Engineering, Frontend & Full Stack opportunities
-
+- 🎓 **Education:** MCA student @ JIIT · BCA graduate (GPA: 8.01)
+- 💻 **Focus:** Full-stack development with React, TypeScript, JavaScript, and Firebase
+- 🧠 **Engineering mindset:** Functional, scalable applications built with a security-first approach
+- 🔐 **Security background:** CEH certified, with hands-on penetration testing experience
+- 📐 **Strong fundamentals:** Data Structures & Algorithms — actively solving problems on LeetCode
+- 🌱 **Currently learning:** Backend development, system design, and open source contribution
+- 🤝 **Looking for:** Software Engineering, Frontend, and Full-Stack opportunities
 
 ---
 
-## 🧠 Featured Projects
+### 🏆 Competitive Programming & Achievements
 
-### 🔹 DSA Visualizer
-- Step-by-step visualization of Bubble, Selection, Merge, Quick, Heap Sort & Binary Search
-- **Pseudocode panel** highlights the exact line executing at each step
-- Time complexity display for every algorithm
-- Built with **React, Vite, CSS**
-- 👉 [Live Demo](https://dsa-visualizer-beta-sepia.vercel.app/) · [Source Code](https://github.com/Gunjan-Yadav12/-dsa-visualizer)
+<div align="center">
 
-### 🔹 Credit Card Fraud Detection
-- ML model to detect fraud on a massively imbalanced dataset (492 fraud vs 284,807 normal)
-- Handled class imbalance with **SMOTE** — balanced to 227,451 samples each class
-- Compared **Logistic Regression** (90% recall) vs **Random Forest** (84% precision)
-- Built with **Python, Scikit-learn, Pandas, Matplotlib**
-- 👉 [Source Code](https://github.com/Gunjan-Yadav12/credit-card-fraud-detection)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Gunjan__1205-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gunjan_1205/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-gunjanyad6wgw-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gunjanyad6wgw/)
+
+</div>
+
+**Leadership & Recognition**
+- 🥈 Secured **2nd place** in "Try to Login" CTF competition among 50+ participants
+- 👥 Led a team of **15–20 members** as Joint Secretary & Design Head at Cyberknights
+- 📈 Organized **3+ technical workshops**, increasing event participation by **30%**
 
 ---
 
-## 💼 Experience
+### 💼 Featured Projects
 
-### 🔹 Joint Secretary & Design Head — Cyberknights *(Jan 2024 – May 2025)*
-- Led team of **15–20 members**, organized **3+ technical workshops**
-- Increased event participation by **30%**
-- Secured **2nd place** in "Try to Login" CTF competition among 50+ participants
+<table>
+<tr>
+<td width="50%">
 
-### 🔹 Cyber Security Intern — Sarvagya Institute *(Mar 2024 – May 2024)*
-- Assessed **5+ web applications**, identified **10+ critical vulnerabilities**
-- Prepared **8+ penetration testing reports**, reducing security risks by **25%**
+**🔹 [DSA Visualizer](https://dsa-visualizer-beta-sepia.vercel.app/)**
 
----
+Interactive step-by-step visualizer for core algorithms.
 
-## 🛠 Tech Stack
+- **Algorithms covered:** Bubble, Selection, Merge, Quick, Heap Sort & Binary Search
+- **Key feature:** Pseudocode panel highlights the exact line executing at each step
+- **Extra:** Displays time complexity for every algorithm
+- **Stack:** React · Vite · CSS
+- 🔗 [Live Demo](https://dsa-visualizer-beta-sepia.vercel.app/) · [Source Code](https://github.com/Gunjan-Yadav12/-dsa-visualizer)
 
-**Languages:** Python · C · C++ · JavaScript (ES6+)  
-**Frontend:** React · HTML5 · CSS3 · Bootstrap  
-**Databases:** MySQL · SQL  
-**Tools:** Git · GitHub · VS Code · Power BI  
+</td>
+<td width="50%">
 
-<p align="left">
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-</p>
+**🔹 Credit Card Fraud Detection**
 
----
+ML model to detect fraud on a heavily imbalanced dataset.
 
-## 📜 Certifications
+- **Dataset challenge:** 492 fraud vs. 284,807 normal transactions
+- **Imbalance handling:** Applied SMOTE, balancing both classes to 227,451 samples each
+- **Models compared:** Logistic Regression (90% recall) vs. Random Forest (84% precision)
+- **Stack:** Python · Scikit-learn · Pandas · Matplotlib
+- 🔗 [Source Code](https://github.com/Gunjan-Yadav12/credit-card-fraud-detection)
 
-- 🏆 **EC-Council** — Certified Ethical Hacker (CEH)
-- 🛡️ **NIELIT** — Cyber Security Awareness
-- 💼 **IBM** — Professional Skills
-- 🌐 **EDUTA** — WordPress Certification
+</td>
+</tr>
+</table>
 
 ---
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/gunjan-yadav-6ab561239" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/Gunjan_1205/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
+### 🏗️ Engineering Experience
 
-<a href="https://www.geeksforgeeks.org/profile/gunjanyad6wgw/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-</a>
-</p>
+**Joint Secretary & Design Head — Cyberknights** · *Jan 2024 – May 2025*
+- Led a team of 15–20 members and organized 3+ technical workshops
+- Grew event participation by 30%
+- Placed 2nd in the "Try to Login" CTF competition (50+ participants)
+
+**Cyber Security Intern — Sarvagya Institute** · *Mar 2024 – May 2024*
+- Assessed 5+ web applications and identified 10+ critical vulnerabilities
+- Authored 8+ penetration testing reports, reducing security risk by 25%
 
 ---
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjan-Yadav12&theme=gotham&hide_border=false"/>
-</p>
-<p align="center">
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjan-Yadav12&theme=react-dark&hide_border=true"/>
-</p>
-<p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjan-Yadav12&theme=gotham&layout=compact&hide_border=false"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gunjan-Yadav12&theme=onedark"/>
-</p>
+### ⚡ Engineering Stack
 
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,powerbi" />
+
+</div>
+
+---
+
+### 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| 🏆 Certified Ethical Hacker (CEH) | EC-Council |
+| 🛡️ Cyber Security Awareness | NIELIT |
+| 💼 Professional Skills | IBM |
+| 🌐 WordPress Certification | EDUTA |
+
+---
+
+### 🌱 Currently Exploring
+
+`System Design` · `Backend Engineering` · `Open Source Contribution` · `Advanced DSA`
+
+---
+
+### 📈 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Gunjan-Yadav12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjan-Yadav12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gunjan-Yadav12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gunjan-Yadav12&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gunjan-Yadav12&theme=tokyonight&no-frame=true&row=1" alt="Trophies"/>
+
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gunjan-yadav-6ab561239)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Gunjan_1205/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gunjanyad6wgw/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL_HERE)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is easy. Understanding the problem is the real engineering."*
+
+</div>
