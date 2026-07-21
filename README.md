@@ -46,7 +46,7 @@
 <tr>
 <td width="50%">
 
-**🔹 [DSA Visualizer](https://dsa-visualizer-beta-sepia.vercel.app/)**
+**🔹DSA Visualizer**
 
 Interactive step-by-step visualizer for core algorithms.
 
@@ -59,7 +59,7 @@ Interactive step-by-step visualizer for core algorithms.
 </td>
 <td width="50%">
 
-**🔹 Credit Card Fraud Detection**
+**🔹Credit Card Fraud Detection**
 
 ML model to detect fraud on a heavily imbalanced dataset.
 
