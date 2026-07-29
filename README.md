@@ -128,7 +128,7 @@ ML model to detect fraud on a heavily imbalanced dataset.
 ### 📈 GitHub Metrics
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunjan-Yadav12&theme=gotham&hide_border=false"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Gunjan-Yadav12&theme=gotham&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
   <p align="center">
