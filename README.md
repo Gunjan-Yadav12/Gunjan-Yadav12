@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gunjan+Yadav;Software+Developer+%7C+CEH+Certified;MCA+Student+%40+JIIT;Building+Secure%2C+Scalable+Web+Apps" alt="Typing SVG" />
 
